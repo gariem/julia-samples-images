@@ -14,7 +14,7 @@ This repo contains a set of basic / intermediate image processing problems inclu
 
 Problems in this repository were proposed by Iván Sipiran Ph.D.
 
-Special thanks to Miguel Koo for prividing useful aid in resolution of various problems.
+Special thanks to Miguel Koo for providing useful aid in resolution of various problems.
 
 
 #####More info:
