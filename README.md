@@ -10,12 +10,12 @@ This repo contains a set of basic / intermediate image processing problems inclu
 - [Notch Filtering](7_notch.ipynb)
 - [Difference of Gaussians](8_mamografia.ipynb)
 
-#####Acknowledgments:
+##### Acknowledgments:
 
 Problems in this repository were proposed by Iván Sipiran Ph.D.
 
 Special thanks to Miguel Koo for providing useful aid in resolution of various problems.
 
 
-#####More info:
+##### More info:
 emilio.garcia@pucp.pe
